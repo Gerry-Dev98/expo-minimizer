@@ -1,7 +1,7 @@
 {
   "name": "expo-minimizer",
-  "version": "0.1.0",
-  "description": "Minimize or redirect back to previous APP",
+  "version": "1.0.0",
+  "description": "A minimizer module for Expo apps",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
@@ -16,16 +16,20 @@
     "open:android": "open -a \"Android Studio\" example/android"
   },
   "keywords": [
+    "expo",
     "react-native",
     "expo",
     "expo-minimizer",
-    "ExpoMinimizer"
+    "ExpoMinimizer",
+    "minimizer",
+    "android",
+    "ios"
   ],
   "repository": "https://github.com/Gerry-Dev98/expo-minimizer",
   "bugs": {
     "url": "https://github.com/Gerry-Dev98/expo-minimizer/issues"
   },
-  "author": "expo <gerry.nguyen@sotatek.com> ()",
+  "author": "expo <huy.dev98@sotatek.com> ()",
   "license": "MIT",
   "homepage": "https://github.com/Gerry-Dev98/expo-minimizer#readme",
   "dependencies": {},
