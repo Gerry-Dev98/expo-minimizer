@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ExpoMinimizerModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.minimizer.ExpoMinimizerModule"]
+  }
+}
